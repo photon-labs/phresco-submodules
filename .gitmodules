@@ -1,0 +1,30 @@
+[submodule "service-auth"]
+	path = service-auth
+	url = https://github.com/phresco/service-auth.git
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/phresco/libraries.git
+[submodule "phresco-build-scripts"]
+	path = phresco-build-scripts
+	url = https://github.com/phresco/phresco-build-scripts.git
+[submodule "service-client"]
+	path = service-client
+	url = https://github.com/phresco/service-client.git
+[submodule "archetypes"]
+	path = archetypes
+	url = https://github.com/phresco/archetypes.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/phresco/plugins.git
+[submodule "service"]
+	path = service
+	url = https://github.com/phresco/service.git
+[submodule "framework"]
+	path = framework
+	url = https://github.com/phresco/framework.git
+[submodule "commons"]
+	path = commons
+	url = https://github.com/phresco/commons.git
+[submodule "phresco-pom"]
+	path = phresco-pom
+	url = https://github.com/phresco/phresco-pom.git
